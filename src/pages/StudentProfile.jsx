@@ -23,12 +23,12 @@ function StudentProfile() {
 
           <div className="info-row">
             <FaUser />
-            <span>Name: John Doe</span>
+            <span>Name: Muthu</span>
           </div>
 
           <div className="info-row">
             <FaEnvelope />
-            <span>john@example.com</span>
+            <span>muthu@example.com</span>
           </div>
 
           <div className="info-row">
