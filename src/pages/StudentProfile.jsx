@@ -10,7 +10,7 @@ function StudentProfile() {
         {/* Left Card */}
         <div className="profile-card-main">
           <div className="avatar-big">JD</div>
-          <h3>John Doe</h3>
+          <h3>Muthu</h3>
           <p>Full Stack Developer Student</p>
         </div>
 
