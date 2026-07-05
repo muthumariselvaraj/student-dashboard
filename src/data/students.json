@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Rahul",
+    "name": "Muthu",
     "department": "Computer Science",
     "year": "III"
   },
@@ -13,7 +13,7 @@
   },
   {
     "id": 3,
-    "name": "Arun",
+    "name": "Devi",
     "department": "Electronics and Communication",
     "year": "IV"
   }
