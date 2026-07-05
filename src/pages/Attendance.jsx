@@ -3,10 +3,10 @@ import { FaUserCheck, FaUserTimes } from "react-icons/fa";
 
 function Attendance() {
   const students = [
-    { name: "John", status: "Present", percent: 85 },
-    { name: "Sara", status: "Absent", percent: 60 },
-    { name: "Alex", status: "Present", percent: 92 },
-    { name: "Priya", status: "Present", percent: 78 }
+    { name: "Muthu", status: "Present", percent: 85 },
+    { name: "Priya", status: "Absent", percent: 60 },
+    { name: "Devi", status: "Present", percent: 92 },
+    { name: "Selvi", status: "Present", percent: 78 }
   ];
 
   const total = students.length;
