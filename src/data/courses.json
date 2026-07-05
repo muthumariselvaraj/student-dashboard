@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "course": "React JS",
+    "faculty": "Mr. John",
+    "credits": 4
+  },
+  {
+    "id": 2,
+    "course": "Java Programming",
+    "faculty": "Mrs. Maria",
+    "credits": 3
+  },
+  {
+    "id": 3,
+    "course": "Database Management System",
+    "faculty": "Mr. David",
+    "credits": 4
+  }
+]

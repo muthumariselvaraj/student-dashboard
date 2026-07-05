@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "message": "Internal Exam starts on Monday."
+  },
+  {
+    "id": 2,
+    "message": "Assignment submission deadline is Friday."
+  },
+  {
+    "id": 3,
+    "message": "College will remain closed on Independence Day."
+  }
+]

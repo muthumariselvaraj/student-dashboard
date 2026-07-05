@@ -1,0 +1,14 @@
+[
+  {
+    "subject": "React JS",
+    "attendance": "95%"
+  },
+  {
+    "subject": "Java Programming",
+    "attendance": "90%"
+  },
+  {
+    "subject": "DBMS",
+    "attendance": "92%"
+  }
+]
